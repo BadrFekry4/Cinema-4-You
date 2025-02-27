@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(88, 17, 17);
+    color: white;
+}
+
+.imglayer{
+    position: absolute;
+    background-color: rgba(20, 20, 20, 0.5);
+    width: 100%;
+    top: 1px;
+    bottom: 1px;
+    opacity: 0;
+    border-radius: 23px;
+}
+.imglayer:hover{
+    opacity: 1;
+}
+.imginfo{
+    position: absolute;
+    font-size: 34px;
+    top: 40%;
+    font-weight: 700;
+    left: 20%;
+    
+}
+span{
+    font-size: 22px;
+    color:yellow;
+    font-weight: 700;
+}
+.sub{
+    margin-bottom: 17.8%;
+}
+
+.img11{
+    height: 400px;
+}
+.cin{
+    font-size: 25px;
+}
